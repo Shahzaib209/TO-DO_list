@@ -1,0 +1,6 @@
+# Ignore node_modules, though not currently used
+node_modules/
+.DS_Store
+# Ignore IDE specific files
+.vscode/
+.idea/
